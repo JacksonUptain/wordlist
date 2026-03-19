@@ -133,56 +133,39 @@ const pictionaryWords = [
 "Mealtime disaster",
 "Cake melted in car",
 "Old Lady",
-"Running",
-"Alien abducting a cow",
-"Person slipping on a banana peel",
-"Shark chasing a surfer",
-"Zombie chasing a person",
-"Dog chasing a mailman",
-"Cat stuck in a tree",
-"Person being struck by lightning",
-"Kid flying a kite",
-"Person eating a giant burger",
-"Baby throwing food",
-"Person lifting huge weights",
-"Kid building a snowman",
-"Person running from a bee",
-"Pirate with treasure chest",
-"Person falling off a ladder",
-"Person juggling balls",
-"Magician pulling rabbit from hat",
-"Kid blowing a huge bubble",
-"Person riding a skateboard",
-"Person walking into a glass door",
-"Chef flipping pancakes",
-"Person tripping over a rock",
-"Person riding a roller coaster",
-"Person swimming with a shark",
-"Person slipping on ice",
-"Person running with toilet paper stuck to shoe",
-"Person opening umbrella in strong wind",
-"Person being chased by a goose",
-"Person stuck in quicksand",
-"Person flying with balloons",
-"Changing a diaper",
-"Rocking a baby to sleep",
-"Feeding a baby with a bottle",
-"Pushing a stroller",
-"Reading a bedtime story",
-"Tucking a child into bed",
-"Helping a child ride a bike",
-"Teaching a child to walk",
-"Building a sandcastle with a child",
-"Playing catch with a child",
-"Parent carrying a baby",
-"Family eating dinner together",
-"Bathing a baby",
-"Parent packing a school lunch",
-"Walking a child to school",
-"Parent tying a child’s shoe",
-"Family at the playground",
-"Parent pushing a child on a swing",
-"Parent holding a crying baby",
-"Parents watching kids play",
-"Parent lifting child in the air"
+"Ring","Bride","Groom","Wedding cake","Kiss","Flowers","Bouquet","Church","Aisle","Music","Dancing","Party","Dress","Suit","Shoes","Veil","Smile","Hug","Vows","Bells",
+
+  "Heart","Love","Holding hands","Hugging","Kissing","Date","Dinner","Roses","Card","Gift","Candle","Picnic","Sunset","Smile together","Laughing","Surprise","Chocolate","Sweet note","Blowing kiss","Couple",
+
+  "Couch","TV","Remote","Blanket","Bed","Pillow","Alarm clock","Coffee","Breakfast","Kitchen","Dishes","Sink","Trash","Laundry","Basket","Closet","Mirror","Bathroom",
+
+  "Snoring","Eye roll","Laughing hard","Arguing","Saying sorry","Oops","Spill","Mess","Late","Running","Forgetting","Surprised face","Silly face","Dancing badly","Singing","Talking a lot","Quiet","Sleeping","Yawning","Stretching",
+
+  "Pizza","Ice cream","Cooking","Frying pan","Spoon","Fork","Plate","Cup","Drink","Snack","Grocery cart","Shopping","Bag","Checkout","Cooking together","Burning food","Taste test","Eating together","Sharing food","Dessert",
+
+  "Car","Driving","Map","Beach","Sand","Sun","Hotel","Suitcase","Airplane","Camera","Selfie","Walking","Hiking","Pool","Swimming","Flip flops","Sunglasses","Hat","Ticket","Road trip",
+
+  "Baby","Kids","Family","Dinner table","Bedtime","Story","Toy","Ball","School","Backpack","Lunchbox","Homework","Playing","Running kids","Hugging kids","Family photo","Birthday","Cake","Candles","Presents",
+
+  "Balloons","Clapping","Cheers","Toast","Laughing crowd","Gift box","Ribbon",
+
+  "Tickling","Pillow fight","Jumping","Spinning","Falling down","Tripping","Running fast","Chasing","Hiding","Peek-a-boo",
+
+  "Vacuum","Broom","Mop","Dusting","Cleaning","Window","Door","Couch nap","Blanket burrito","TV show",
+
+  "Talking","Listening","Whisper","Shouting","Laughing together","Crying","Smiling","Thinking","Question mark","Idea",
+
+  "Work","Laptop","Phone","Calendar","Clock","Late for work","Meeting","Email","Coffee break","Weekend",
+
+  "Walking together","Sitting together","Holding hands walking","Hug from behind","Kiss on cheek","Smiling at each other","Waving","High five","Fist bump","Shoulder shrug",
+
+  "Dropping something","Slipping","Spilling drink","Laughing too hard","Sneaking snack","Hiding food","Sharing blanket","Stealing pillow","Chasing dog","Feeding pet",
+
+  "Dog","Cat","Walking dog","Pet sleeping","Pet playing","Dog leash","Cat nap","Pet toy","Barking",
+
+  "Watching sunset","Sitting on bench","Relaxing","Deep breath","Quiet time","Reading","Book","Lamp","Night","Stars",
+
+  "Number 25","Silver","Toasting glasses","Party hats","Dancing couple","Photo album","Old picture","Memory",
+
+  "Ring box","Open gift","Wrapping paper","Bow","Happy tears","Big smile","Group hug","Laughing group","Clinking glasses","Sharing dessert","Feeding cake","Holding cake","Cutting cake","Sitting at table","Raising glass","Party music","Dancing crowd","Spinning around","Jumping for joy","Walking in rain","Umbrella","Splashing water","Running inside","Drying off","Cozy blanket","Hot drink","Mug","Steam","Fireplace","Watching movie","Popcorn","Falling asleep","Snuggling","Blanket over head","Laughing at TV","Remote control","Changing channel","Loud TV","Quiet room","Early morning","Stretching arms","Yawning big","Brushing hair","Getting dressed","Putting on shoes","Opening door","Leaving house","Waving goodbye","Coming home","Opening fridge","Looking confused","Shrugging","Pointing","Nodding yes","Shaking head no","Side hug"
 ];
